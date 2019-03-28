@@ -1,3 +1,3 @@
 # Inscription-Header
 
-Tests JS sur Header Classique
+Tests JS sur Header classique
